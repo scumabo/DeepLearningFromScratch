@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+/peterroelants.github.io-master
 # Distribution / packaging
 .Python
 build/
